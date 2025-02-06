@@ -13,10 +13,12 @@ function App() {
     <img src={ImagemLogo} className='imagem-logo'></img>
       <h1>Plano de Treinamento</h1><br />
 
-      <h2>Plano A</h2>
+      <h2>Plano A  -| Superiores</h2>
       <Grid container alignItems="center" justifyContent="center">
 
         <Grid item xs={10} >
+
+    <p> Esteira 20 minutos </p>
           <p>
             Supino Reto 3x12
             </p>
@@ -50,9 +52,10 @@ function App() {
 
       </Grid>
 
-      <h2>Plano B</h2>
+      <h2>Plano B  -| Peito</h2>
       <Grid container alignItems="center" justifyContent="center">
         <Grid item xs={10} >
+        <p> Esteira 20 minutos </p>
           <p>
             Puxada Frente Aberta 3x13
             </p>
@@ -79,9 +82,11 @@ function App() {
         </Grid>
 
       </Grid>
-      <h2>Plano C</h2>
+      <h2>Plano C  -| Inferiores</h2>
       <Grid container alignItems="center" justifyContent="center">
         <Grid item xs={10} >
+
+    <p> Esteira 20 minutos </p>
           <p>
             Agachamento Pack 3x12
             </p>
