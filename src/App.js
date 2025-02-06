@@ -45,7 +45,7 @@ function App() {
           <p>
             Tríceps Testamaq 3x12
             </p>
-
+  <p> Esteira 20 minutos </p>
         </Grid>
 
 
@@ -78,7 +78,7 @@ function App() {
             Biceps Alternado 3X12
             </p>
 
-
+  <p> Esteira 20 minutos </p>
         </Grid>
 
       </Grid>
@@ -106,7 +106,7 @@ function App() {
           <p>
             Panturrilha Pack 3x15
             </p>
-
+  <p> Esteira 20 minutos </p>
 
         </Grid>
 
