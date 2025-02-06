@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.todo{
+
+  text-align: center;
+}
+.todo h1{
+
+  color: white;
+  background-color: orangered;
+}
+
+.todo h2{
+
+  color: white;
+  background-color: orangered;
+}
+
+
+.todo p{
+
+  color: white;
+  font-weight: bold;
+  border: 1px white solid;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.imagem-logo{
+
+  width: 250px;
+}
