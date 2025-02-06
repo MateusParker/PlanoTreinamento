@@ -89,7 +89,7 @@ function App() {
             Leg Press 3x12
             </p>
           <p>
-            Cadeira Extensora 3z12
+            Cadeira Extensora 3x12
             </p>
           <p>
             Mesa Flexora 3x12
