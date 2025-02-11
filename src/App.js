@@ -52,7 +52,7 @@ function App() {
 
       </Grid>
 
-      <h2>Plano B  -| Peito</h2>
+      <h2>Plano B  -| Costas</h2>
       <Grid container alignItems="center" justifyContent="center">
         <Grid item xs={10} >
         <p> Esteira 20 minutos </p>
