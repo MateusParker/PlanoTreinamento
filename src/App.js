@@ -55,12 +55,12 @@ function App() {
       <h2>Plano B  -| Costas</h2>
       <Grid container alignItems="center" justifyContent="center">
         <Grid item xs={10} >
-        <p> Esteira 20 minutos </p>
+        <p> Esteira 25 minutos </p>
           <p>
-            Puxada Frente Aberta 3x13
+            Puxada Frente Aberta 3x15
             </p>
           <p>
-            Remada Baixa 3x15
+            Remada Baixa 4x15
             </p>
           <p>
             Remada Unilateral Articulada 3x12
@@ -86,7 +86,7 @@ function App() {
       <Grid container alignItems="center" justifyContent="center">
         <Grid item xs={10} >
 
-    <p> Esteira 20 minutos </p>
+    <p> Esteira 25 minutos </p>
           <p>
             Agachamento Pack 3x12
             </p>
