@@ -23,27 +23,27 @@ function App() {
             Supino Reto 3x12
             </p>
           <p>
-            Peck Deck 3x15
+            Cross Over 3x15
          </p>
           <p>
-            Supino Inclinado 4x12
+            Crucifixo 4x12
             </p>
           <p>
-            Elevação Lateral 3x12
+            Supino Articulado 3x12
             </p>
 
             <p>
-            Desenvolvimento Maquina 3x12
+            Elevação Lat Polia 3x12
             </p>
           <p>
             Elevação Frontal 3x12
             </p>
           <p>
-            Tríceps Corda 3x13
+            Tríceps Barra 3x13
             </p>
 
           <p>
-            Tríceps Testamaq 3x12
+            Tríceps Francês Polia 3x12
             </p>
   <p> Esteira 20 minutos </p>
         </Grid>
@@ -57,25 +57,25 @@ function App() {
         <Grid item xs={10} >
         <p> Esteira 25 minutos </p>
           <p>
-            Puxada Frente Aberta 3x15
+            Puxada Frente Fechada 3x15
             </p>
           <p>
-            Remada Baixa 4x15
+            Remeda Uni Polia 4x15
             </p>
           <p>
-            Remada Unilateral Articulada 3x12
+            Remada Baixa Aberta 3x12
             </p>
           <p>
-            Puxada Corda 3x15
+            Remada Curvada 3x15
             </p>
 
           <p
           >
-            Bíceps Barra W 3X12
+           Bicepes Martelo 3X12
             </p>
           <p
           >
-            Biceps Alternado 3X12
+            Biceps Polia Reto 3X12
             </p>
 
   <p> Esteira 20 minutos </p>
@@ -88,23 +88,23 @@ function App() {
 
     <p> Esteira 25 minutos </p>
           <p>
-            Agachamento Pack 3x12
+            Sumô 3x12
+            </p>
+          <p>
+            Passada 3x12
+            </p>
+          <p>
+            Extensora 3x12
             </p>
           <p>
             Leg Press 3x12
             </p>
-          <p>
-            Cadeira Extensora 3x12
-            </p>
-          <p>
-            Mesa Flexora 3x12
-            </p>
 
           <p>
-            Cadeira Adbutora 3x15
+            Mesa Flexora 3x15
             </p>
           <p>
-            Panturrilha Pack 3x15
+            Panturrilha Maq. 3x15
             </p>
   <p> Esteira 20 minutos </p>
 
